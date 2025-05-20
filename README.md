@@ -1,2 +1,1 @@
-# new_depo
-new repertory
+CE FICHIER A ETE CREER POUR MONTRER POUR MONTRER comment lier un repo local et distant
